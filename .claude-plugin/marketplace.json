@@ -1,0 +1,17 @@
+{
+  "name": "runelite-dev",
+  "owner": {
+    "name": "idyet"
+  },
+  "metadata": {
+    "description": "Claude Code skills for building RuneLite Plugin Hub plugins"
+  },
+  "plugins": [
+    {
+      "name": "runelite-dev",
+      "source": "./plugins/runelite-dev",
+      "description": "RuneLite Plugin Hub workflow: concept vetting, dupe check, scaffold, presubmit, hub bump",
+      "category": "development"
+    }
+  ]
+}

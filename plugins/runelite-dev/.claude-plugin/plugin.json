@@ -1,0 +1,10 @@
+{
+  "name": "runelite-dev",
+  "version": "0.2.0",
+  "description": "RuneLite Plugin Hub workflow: concept vetting, dupe check, scaffold, presubmit, hub bump",
+  "author": {
+    "name": "idyet"
+  },
+  "license": "BSD-2-Clause",
+  "keywords": ["runelite", "osrs", "oldschool-runescape", "plugin-hub", "java"]
+}
